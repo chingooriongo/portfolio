@@ -1,14 +1,20 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Portfolio de Santino Vaziuta
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+¡Bienvenido/a a mi portfolio! Este repositorio contiene una muestra de mi trabajo y proyectos realizados hasta la fecha. Me especializo en Html,CSS, JS, React y aquí encontrarás una variedad de proyectos que demuestran mis habilidades y experiencia en esta área.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## Habilidades
 
-![preview img](/preview.png)
+-HTML
+-CSS
+-JS
+-React
 
+## Contacto
+
+Si estás interesado/a en colaborar en proyectos o tienes alguna pregunta, no dudes en contactarme:
+
+- **Correo Electrónico:** vfsn46361527@gmail.com
+- **Sitio Web/Portfolio:**
+- **LinkedIn:**linkedin.com/in/santinovaziuta/
+
+¡Gracias por visitar mi portfolio!
